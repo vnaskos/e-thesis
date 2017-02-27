@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Vasilis Naskos (vnaskos[at]gmail[dot]com)
+ */
 class DBHelper {
 	/* @var $db mysqli */
 	protected static $db = null;

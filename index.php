@@ -146,8 +146,8 @@
 										computer engineering on Technological Educational Institute of
 										Central Macedonia Greece.</p>
 									<p>
-										Vasilis Naskos (3859)<br />Giorgos Emertzis (3773)<br />Despoina
-										Taskoudi (3829)<br />Karen Nersesian (3839)
+										Vasilis Naskos<br />Giorgos Emertzis<br />Despoina
+										Taskoudi<br />Karen Nersesian
 									</p>
 								</div>
 							</div>
@@ -163,7 +163,7 @@
 									</div>
 								</div>
 								<div class="content-box-large box-with-header">
-									<p>As we mentioned this project is open source, you can help us expand to your department or even better to your institute. Find our project on <a href="#">Github</a></p>
+									<p>As we mentioned this project is open source, you can help us expand to your department or even better to your institute. Find our project on <a href="https://github.com/vnaskos/e-thesis">Github</a></p>
 									<br />
 									<br />
 								</div>

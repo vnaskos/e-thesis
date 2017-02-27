@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Vasilis Naskos (vnaskos[at]gmail[dot]com)
+ */
 class MenuItem {
 	
 	const ACCESS_PUBLIC		= 0;

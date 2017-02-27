@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Vasilis Naskos (vnaskos[at]gmail[dot]com)
+ */
 class Upload {
 	
 	const UPLOAD_DIR = ETH_CONF_UPLOAD_DIR;
